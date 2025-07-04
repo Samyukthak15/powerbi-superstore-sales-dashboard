@@ -31,7 +31,9 @@ The dataset used in this project is available in the [`data`](./data/SampleSuper
 ## 🛠️ Tools Used
 - Power BI
 - DAX
+- Power Query
 - Sample Superstore Dataset
+
 
 ---
 
