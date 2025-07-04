@@ -9,6 +9,10 @@ Power BI dashboard analyzing sales, profit, and shipping insights using the Samp
 
 This Power BI report analyzes sales, profit, and shipping delays using the Sample Superstore dataset. The aim is to derive actionable business insights using interactive dashboards.
 
+## 📁 Dataset
+The dataset used in this project is available in the [`data`](./data/SampleSuperstore.xlsx) folder.
+
+
 ### 📁 Pages
 - **Superstore Summary**: KPI cards and regional profitability
 - **Top & Bottom Products**: Sales comparison across product performance
